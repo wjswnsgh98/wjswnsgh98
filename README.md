@@ -1,5 +1,5 @@
 ### Hi there!!! 👋🖐️💪
-### JAVA, Html, React, SpringBoot, SQL, MyBatis, Oracle
+### JAVA, Html, React, SpringBoot, MySQL, MyBatis, Oracle
  
 <!--
 **wjswnsgh98/wjswnsgh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
