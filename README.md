@@ -1,4 +1,4 @@
-### Hi there!!! 👋🖐️💪
+### Hi there!!! 👋🖐️
 ### JAVA, Html, React, SpringBoot, MySQL, MyBatis, Oracle, javascript
  
 <!--
